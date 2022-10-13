@@ -1,0 +1,10 @@
+package SpringStarting.chapter3.polymorphism01;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		Penguin pororo = new Penguin();
+
+	}
+
+}

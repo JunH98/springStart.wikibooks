@@ -1,0 +1,10 @@
+package SpringStarting.chapter3.inheritance01;
+
+public class Driver01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

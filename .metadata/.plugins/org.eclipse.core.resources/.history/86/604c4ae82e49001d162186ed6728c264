@@ -1,0 +1,11 @@
+package SpringStarting.chapter6.templateMethodPattern;
+
+public class Cat {
+	public void playWithOwner() {
+		System.out.println("come on");
+		System.out.println("meow meow");
+		System.out.println("tail swing");
+		System.out.println("good boy");
+	}
+
+}

@@ -1,0 +1,5 @@
+package SpringStarting.chapter6.factoryMethodPattern;
+
+public class Dog extends Animal {
+
+}

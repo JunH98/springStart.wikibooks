@@ -1,0 +1,8 @@
+package SpringStarting.chapter4.abstractMethod02;
+
+public class chick implements Animal {
+	void talk() {
+		System.out.println("chickkkkkkkk");
+	}
+
+}

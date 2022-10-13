@@ -1,0 +1,5 @@
+package SpringStarting.chapter6.templateCallbackPattern;
+
+public class Soldier {
+
+}

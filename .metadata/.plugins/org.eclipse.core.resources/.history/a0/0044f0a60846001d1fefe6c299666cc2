@@ -1,0 +1,8 @@
+package SpringStarting.chapter6.proxyPattern;
+
+public class Service {
+	public String runSomething() {
+		return "Service is good\n";
+	}
+
+}

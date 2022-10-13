@@ -1,0 +1,10 @@
+package SpringStarting.chapter3.inheritance03;
+
+public class Animal {
+	public String name;
+	
+	public void ShowName() {
+		System.out.printf("Hi I`m %s. nice to meet you", name);
+	}
+
+}

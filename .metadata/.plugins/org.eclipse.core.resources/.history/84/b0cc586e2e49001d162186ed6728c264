@@ -1,0 +1,12 @@
+package SpringStarting.chapter6.templateMethodPattern;
+
+public abstract class Animal {
+	// template method
+	public void playWithOwner() {
+		System.out.println("come on");
+		play();
+		System.out.println("tail swing");
+		System.out.println("good boy");
+	}
+
+}

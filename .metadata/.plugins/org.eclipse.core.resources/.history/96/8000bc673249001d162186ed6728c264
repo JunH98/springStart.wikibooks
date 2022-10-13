@@ -1,0 +1,6 @@
+package SpringStarting.chapter6.strategyPattern;
+
+public interface strategyPattern {
+	public abstract void runStrategy();
+
+}

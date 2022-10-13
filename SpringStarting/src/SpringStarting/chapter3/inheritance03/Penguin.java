@@ -1,0 +1,10 @@
+package SpringStarting.chapter3.inheritance03;
+
+public class Penguin extends Animal {
+	public String habitat;
+	
+	public void showHabitat() {
+		System.out.printf("%s is livin %s.\n", name, habitat);
+	}
+
+}

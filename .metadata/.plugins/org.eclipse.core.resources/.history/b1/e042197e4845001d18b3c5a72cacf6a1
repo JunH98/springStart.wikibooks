@@ -1,0 +1,14 @@
+package SpringStarting.chapter3.inheritance03;
+
+public class Driver {
+	public static void main(String[] args) {
+		Penguin pororo = new Penguin();
+		
+		pororo.name = "Pororo";
+		pororo.habitat= "Antartica";
+		
+		pororo.ShowName();
+		pororo.showHabitat();
+	}
+
+}

@@ -1,0 +1,20 @@
+package SpringStarting.chapter4.staticBlock;
+
+public class Driver05 {
+
+	public static void main(String[] args) {
+
+		System.out.println("main method start");
+		System.out.println(Animal.age);
+		
+	}
+
+}
+
+class Animal{
+	static int age = 0;
+	
+	static {
+		System.out.println("Animal class ready on");
+	}
+}

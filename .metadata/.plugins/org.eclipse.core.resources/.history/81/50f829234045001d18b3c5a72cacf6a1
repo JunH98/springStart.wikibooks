@@ -1,0 +1,7 @@
+package SpringStarting.chapter3.inheritance01;
+
+public class penguin extends Birds {
+	penguin(){
+		myClass = "Sparrow";
+	}
+}

@@ -1,0 +1,10 @@
+package SpringStarting.chapter4.abstractMethod01;
+
+public class abstractMethod01 {
+
+	public static void main(String[] args) {
+
+
+	}
+
+}

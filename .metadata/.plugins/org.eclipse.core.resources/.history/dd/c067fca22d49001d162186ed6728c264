@@ -1,0 +1,5 @@
+package SpringStarting.chapter6.singletonPattern;
+
+public class Client {
+
+}

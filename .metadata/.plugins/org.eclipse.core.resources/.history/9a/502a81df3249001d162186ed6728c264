@@ -1,0 +1,5 @@
+package SpringStarting.chapter6.strategyPattern;
+
+public class StrategyBow implements Strategy {
+
+}

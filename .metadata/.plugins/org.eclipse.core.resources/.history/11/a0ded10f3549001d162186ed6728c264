@@ -1,0 +1,12 @@
+package SpringStarting.chapter6.templateCallbackPattern;
+
+import SpringStarting.chapter6.strategyPattern.Strategy;
+
+public class Soldier {
+	void runContext(Strategy strategy) {
+		System.out.println("start battle");
+		strategy.runStrategy();
+		System.out.println("end battle");
+	}
+
+}

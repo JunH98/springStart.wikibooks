@@ -1,0 +1,17 @@
+package SpringStarting.chapter3.inheritance01;
+
+public class Driver01 {
+
+	public static void main(String[] args) {
+		Animal animal = new Animal();
+		Mammalia Mammalia = new Mammalia();
+		Animal animal = new Animal();
+		Animal animal = new Animal();
+		Animal animal = new Animal();
+		Animal animal = new Animal();
+		Animal animal = new Animal();
+		Animal animal = new Animal();
+
+	}
+
+}

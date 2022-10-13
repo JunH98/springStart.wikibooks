@@ -1,0 +1,6 @@
+package SpringStarting.chapter3.inheritance03;
+
+public class Penguin extends Animal {
+	public String habitat;
+
+}

@@ -1,0 +1,11 @@
+package SpringStarting.chapter3.encapsulation01.packageOne;
+
+public class ClassA {
+	public int pri;
+	int def;
+	protected int pro;
+	public int pub;
+	
+	void runSomething() {}
+
+}

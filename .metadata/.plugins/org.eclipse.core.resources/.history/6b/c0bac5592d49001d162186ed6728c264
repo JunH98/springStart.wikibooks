@@ -1,0 +1,8 @@
+package SpringStarting.chapter6.singletonPattern;
+
+public class Singleton {
+	static Singleton singletonObject;
+	
+	private Singleton() {};
+
+}

@@ -1,0 +1,6 @@
+package SpringStarting.chapter6.proxyPattern;
+
+public interface Iservice {
+	String runSomething();
+
+}

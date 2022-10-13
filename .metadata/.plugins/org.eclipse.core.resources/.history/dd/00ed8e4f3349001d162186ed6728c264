@@ -1,0 +1,11 @@
+package SpringStarting.chapter6.strategyPattern;
+
+public abstract class Client {
+	public static void main(String[] args) {
+		Strategy strategy = null;
+		Soldier rambo = new Soldier();
+		
+		strategy = new StrategyGun();
+	}
+
+}

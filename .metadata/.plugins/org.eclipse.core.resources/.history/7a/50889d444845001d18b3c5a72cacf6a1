@@ -1,0 +1,8 @@
+package SpringStarting.chapter3.inheritance03;
+
+public class Driver {
+	public static void main(String[] args) {
+		Penguin pororo = new Penguin();
+	}
+
+}

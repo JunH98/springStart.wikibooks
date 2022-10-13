@@ -1,0 +1,11 @@
+package SpringStarting.chapter3.reference;
+
+public class Animal {
+	public String name;
+	int age;
+	
+	public void showName() {
+		System.out.printf("Hi I`m %s. nice to meet you\n", name);
+	}
+
+}

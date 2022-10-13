@@ -1,0 +1,8 @@
+package SpringStarting.chapter4.abstractMethod01;
+
+public class Mouse {
+	void Talk() {
+		System.out.println("I`m mouse");
+	}
+
+}

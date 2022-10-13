@@ -1,0 +1,8 @@
+package SpringStarting.chapter3.inheritance02;
+
+public class Whale extends Mammalia implements CanSwim {
+	Whale(){
+		myClass = "Whale";
+	}
+
+}

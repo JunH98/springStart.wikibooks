@@ -1,0 +1,7 @@
+package SpringStarting.chapter3.inheritance01;
+
+public class Mammalia extends Animal {
+	Mammalia(){
+		myClass = "Mammalia";
+	}
+}

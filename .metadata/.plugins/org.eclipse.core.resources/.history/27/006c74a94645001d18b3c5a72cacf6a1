@@ -1,0 +1,20 @@
+package SpringStarting.chapter3.inheritance02;
+
+public class Driver {
+
+	public static void main(String[] args) {
+		CanFly flier1 = new Bat();
+		flier1.fly();
+
+		CanFly flier2 = new Sparrow();
+		flier2.fly();
+		
+		CanSwim[] cantSwims = new CanSwim[2];
+		
+		cantSwim[0] = new Whale();
+		cantSwim[1] = new Penguin();
+		
+		for (CanSwim cantSwims : cnatSwims)
+	}
+
+}

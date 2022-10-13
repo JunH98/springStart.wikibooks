@@ -1,0 +1,22 @@
+package SpringStarting.chapter4.instanceOf01;
+
+class Animal{
+
+}
+
+class Birds extends Animal{
+
+}
+
+class penguin extends Birds{
+
+}
+
+public class Driver{
+	public static void main(String[] args) {
+		Animal animalInstance = new Animal();
+		Animal birdsInstance = new Animal();
+		Animal penguinInstance = new Animal();
+	}
+	
+}

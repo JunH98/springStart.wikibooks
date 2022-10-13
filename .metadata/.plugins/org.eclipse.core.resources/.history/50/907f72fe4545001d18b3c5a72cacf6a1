@@ -1,0 +1,11 @@
+package SpringStarting.chapter3.inheritance02;
+
+public class penguin extends Mammalia implements CanSwim {
+	penguin(){
+		myClass = "Whale";
+	}
+	@Override
+	public void swim() {
+		System.out.println(myClass+" is swimming");
+	}
+}

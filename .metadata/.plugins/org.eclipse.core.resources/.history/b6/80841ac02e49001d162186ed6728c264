@@ -1,0 +1,10 @@
+package SpringStarting.chapter6.templateMethodPattern;
+
+public class Dog extends Animal{
+	@Override
+	//추상 메소드 오버라이딩
+	void play() {
+		System.out.println("bow bow");
+	}
+
+}

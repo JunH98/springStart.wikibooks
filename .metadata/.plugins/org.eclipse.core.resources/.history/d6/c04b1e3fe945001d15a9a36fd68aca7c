@@ -1,0 +1,5 @@
+package SpringStarting.chapter3.polymorphism01;
+
+public class Animal {
+
+}

@@ -1,0 +1,8 @@
+package SpringStarting.chapter6.adapterPattern;
+
+public class ServiceB {
+	void runServiceA() {
+		System.out.println("ServiceA");
+	}
+
+}
